@@ -14,3 +14,14 @@
  - Entender a classe java.lang.Object
  - Conhecer a java.io
   
+  
+  
+  # Modificacores de acesso 
+  
+  • public:visível em todos os espaços
+• protected: visível dentro do pacote e público para os filhos
+• package private: visível apenas dentro do pacote
+• private: visível apenas dentro da classe
+![image](https://github.com/ceerqueira/pacotes/assets/50030996/619ae9fc-bf06-4276-bac5-d00f2c3665f0)
+
+  
