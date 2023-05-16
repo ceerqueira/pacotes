@@ -1,6 +1,15 @@
 # Índice 
 
 * [Índice](#índice)
+* [Java Pacotes](#java-pacotes)
+* [Sobre os pacotes](#sobre-os-pacotes)
+* [Modificadores de Acesso](#modificadores-de-acesso)
+* [Criar um javadoc](#criar-um-javadoc)
+* [Criando uma biblioteca com JAR e criando um executavel JAR](#criando-uma-biblioteca-com-JAR-e-criando-um-executavel-JAR)
+* [Pacote java.lang](#pacote-java.lang)
+* [Pacote java.lang.object](#pacote-java.lang.object)
+* [Pacote java.io](#pacote-java.io)
+* [Certificações](#certificações)
 
 
 # Java Pacotes
@@ -82,5 +91,10 @@ private: visível apenas dentro da classe
 # Pacote java.lang.object
   - A classe Object é a classe raiz do Java
   - Não é preciso herda do Object explicitamente, o compilador automaticamente insere a declaração.
-
-
+# Pacote java.io
+  - A classe InputStream é abstrata, e FileInputStream, uma de suas filhas concretas. FileInputStream procurará o arquivo no diretório em que a JVM fora invocada 
+# Certificações 
+ <a href="https://cursos.alura.com.br/course/java-pacotes-e-java-lang">Java e java.lang: programe com a classe Object e String<a>
+   
+  <a hred="https://cursos.alura.com.br/certificate/4acf8c94-45f4-4991-9ec3-56a450bb9200">Certificação Victor<a>
+  
