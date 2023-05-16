@@ -96,5 +96,5 @@ private: visível apenas dentro da classe
 # Certificações 
  <a href="https://cursos.alura.com.br/course/java-pacotes-e-java-lang">Java e java.lang: programe com a classe Object e String<a>
    
-  <a hred="https://cursos.alura.com.br/certificate/4acf8c94-45f4-4991-9ec3-56a450bb9200">Certificação Victor<a>
+  <a href="https://cursos.alura.com.br/certificate/4acf8c94-45f4-4991-9ec3-56a450bb9200">Certificação Victor<a>
   
