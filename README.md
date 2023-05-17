@@ -6,9 +6,9 @@
 * [Modificadores de Acesso](#modificadores-de-acesso)
 * [Criar um javadoc](#criar-um-javadoc)
 * [Criando uma biblioteca com JAR e criando um executavel JAR](#criando-uma-biblioteca-com-JAR-e-criando-um-executavel-JAR)
-* [Pacote java.lang](#pacote-java.lang)
-* [Pacote java.lang.object](#pacote-java.lang.object)
-* [Pacote java.io](#pacote-java.io)
+* [Pacote java.lang](#pacote-java-lang)
+* [Pacote java.lang.object](#pacote-java-lang-object)
+* [Pacote java.io](#pacote-java-io)
 * [Certificações](#certificações)
 
 
